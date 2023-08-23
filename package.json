@@ -10,7 +10,7 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "Peter Kellner",
+  "author": "Joseph Ndolo",
   "license": "ISC",
   "dependencies": {
     "next": "^12.3.4",
